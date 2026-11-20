@@ -1,0 +1,6 @@
+{
+  "name": "Math Library",
+  "description": "Single-course online mathematics learning, MCQ and written examination, built-in mobile document scanner, and subscription management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
